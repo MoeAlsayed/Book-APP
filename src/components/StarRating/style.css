@@ -1,0 +1,9 @@
+/* Stars */
+
+.active {
+  color: goldenrod;
+}
+
+.inactive {
+  color: #aaa;
+}
