@@ -1,2 +1,2 @@
 # Book-APP
-Go to: https://search-for-book.herokuapp.com/
+see it online: https://search-for-book.herokuapp.com/
